@@ -1,2 +1,1 @@
-## about repo
-this repo is created to learn shell 
+ a script that prints the absolute path name of the current working directory
