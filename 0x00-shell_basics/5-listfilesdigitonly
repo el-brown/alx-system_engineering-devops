@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --list
+ls | grep '^[0-9]'
